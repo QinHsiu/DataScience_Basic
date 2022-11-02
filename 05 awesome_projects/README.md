@@ -46,3 +46,5 @@
 ##### 9.[python-recsys/crab](https://github.com/python-recsys/crab)
 ##### 10.[NicolasHug/Surprise](https://github.com/NicolasHug/Surprise)
 
+### SOTA
+##### 1.[SOTA](https://mp.weixin.qq.com/s/crumPYigHPVHIIULKZpEww)
